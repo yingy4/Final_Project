@@ -1,0 +1,1 @@
+object SBuild extends StudentBuildLike
